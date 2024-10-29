@@ -7,7 +7,7 @@ Este projeto foi criado como parte de uma atividade prática para aprendizado de
 Para iniciar o servidor de desenvolvimento, execute o seguinte comando:
 
 ```bash
-[botar aqui como se acessa o servidor]
+[npm start]
 ```
 
 ## Funcionalidades Principais
@@ -22,13 +22,13 @@ Para iniciar o servidor de desenvolvimento, execute o seguinte comando:
 Para instalar as dependências e configurar o ambiente, siga estas etapas:
 
 ```bash
-[botar as etapas]
+[npm install]
 ```
 
 ## Comandos Úteis
 
 ```bash
-[botar aqui]
+[npm install firebase @angular/fire@16.0.0]
 ```
 
 ## Versionamento e Deploy
